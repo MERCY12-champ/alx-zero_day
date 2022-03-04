@@ -1,1 +1,2 @@
-My first readme
+$git up_to_date
+$git pull
